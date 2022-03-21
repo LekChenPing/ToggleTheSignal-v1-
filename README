@@ -9,7 +9,7 @@ Considering these are nine signals(the one on your keyboard) and their number as
 
 Each number represents a signal digit, where has two state: 'O' as TRUE and 'X' as FALSE state.
 
-Everytime when you selected a signal digit, the program will toggle the digit itself and others that surrounding it. For instance,
+Everytime when you selected a signal digit, the program will toggle the digit itself and others that surrounding it (not including crossing). For instance,
 
 When selecting 
 '1', digits 1, 2 and 4 will change
