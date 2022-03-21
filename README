@@ -1,0 +1,20 @@
+ToggleTheSignal (v1)
+
+How to play the game?
+Thinking the number in this sequence:
+
+  1 2 3
+  4 5 6
+  7 8 9
+
+Each number represents a signal digit, where has two state: 'O' as TRUE and 'X' as FALSE state.
+
+Everytime when you selected a signal digit, the program will toggle the digit itself and others that surrounding it. For instance,
+
+When selecting 
+'1', digits 1, 2 and 4 will change
+'5', digits 2, 4, 6, 8 will change
+'8', digits 5, 7, 9 will change, 
+etc...
+
+Goal of the game: Make sure that all signal digits (1-9) are under TRUE state.
