@@ -1,7 +1,10 @@
 ToggleTheSignal (v1)
 
 How to play the game?
-Considering these are nine signals(the one on your keyboard) and their number as per this sequence:
+
+
+
+Considering there are nine signals(the one that going key from your keyboard), in 3x3 format, and their number as per this sequence:
 
   1 2 3
   4 5 6
@@ -17,6 +20,7 @@ When selecting
 '8', digits 5, 7, 9 will change, 
 etc...
 
-Goal of the game: Make sure that all signal digits (1-9) are under TRUE state.
+At begining, there will have generated a random signal map(3x3) for playing the game and you need to toggle the signal by insert and enter the signal numebr to progress the game. 
+The rule is simple: Toggle all signals till all signal digits (1-9) are under TRUE state.
 
 Currently, no timer and stepcounter included, but will be added later. Thanks!
