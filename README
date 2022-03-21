@@ -1,7 +1,7 @@
 ToggleTheSignal (v1)
 
 How to play the game?
-Thinking the number in this sequence:
+Considering these are nine signals(the one on your keyboard) and their number as per this sequence:
 
   1 2 3
   4 5 6
@@ -18,3 +18,5 @@ When selecting
 etc...
 
 Goal of the game: Make sure that all signal digits (1-9) are under TRUE state.
+
+Currently, no timer included, but will be added later. Thanks!
